@@ -159,6 +159,14 @@ tr{
 th{
     font-size: 12px;;
 }
+img{
+    width:100%;
+    height:auto;
+}
+.icon{
+    width:40px;
+    height:40px;
+}
 
 /*-----HEADER & FOOTER-------*/
 div.title{
